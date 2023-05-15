@@ -14,7 +14,7 @@ Here we introduce AAA-Scrum – Triple A, an acronym for Analysis, Automation, a
 We find that security practices can be mapped to the stages of analysis, automation, and acceptance. Within each of these phases exists contextually important security components that we expect can be implemented by either current scrum teams or in consultation of IT / security / operations teams. That said, it is important to note that the use of security expertise is not required for every security phase in AAA-Scrum and can be considered more as part-time supervisor role that defines and accepts but does not implement.
 
 ## Diagram 
-![image](https://github.com/bcdunbar/aaa-scrum/assets/8393928/a21b9032-531f-463c-80fd-ee3e231dd102)
+![image](https://raw.githubusercontent.com/bcdunbar/aaa-scrum/main/aaa-scrum.png)
 
 
 ## Phases
